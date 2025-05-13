@@ -1,0 +1,17 @@
+[
+  {
+    "user_id": 1327071208,
+    "group_id": "123-345",
+    "role": "leader"
+  },
+  {
+    "user_id": 764599344,
+    "group_id": "123-345",
+    "role": "student"
+  },
+  {
+    "user_id": 742657999,
+    "group_id": "123-345",
+    "role": "student"
+  }
+]
